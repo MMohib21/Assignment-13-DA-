@@ -21,7 +21,7 @@ The flagged observation is Sweetener D, City 1, 22 January 2026. The cleaned fil
 | With flagged value (9,999) | 576.81 | 167.75 |
 | Difference | +410.06 | +1.00 |
 
-**Explanation:** [ADD one or two sentences in your own words on why the mean moved much more than the median.]
+**Explanation:** The mean moves more than the median because the mean is affected by every value in a dataset, whereas the median is based only on the middle value.
 
 ## Referee's note
 
