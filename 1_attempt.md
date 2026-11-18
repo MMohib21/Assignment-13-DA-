@@ -4,12 +4,12 @@
 
 Both cities are pooled (24 observations per item). First-to-last change is the change in the two-city average between 1 January and 19 March 2026.
 
-| Item | Mean (PKR/kg) | Median (PKR/kg) | First-to-last change | Statistic I would report and why |
-|---|---:|---:|---:|---|
-| Oil B | 324.83 | 324.00 | 15.28% | [ADD] |
-| Pulse C | 205.92 | 206.00 | 3.69% | [ADD] |
-| Staple A | 111.17 | 111.75 | 12.98% | [ADD] |
-| Sweetener D | 166.75 | 166.75 | 19.41% | [ADD] |
+| Item | Mean (PKR/kg) | Median (PKR/kg) | First-to-last change |
+|---|---:|---:|---:|
+| Oil B | 324.83 | 324.00 | 15.28% |
+| Pulse C | 205.92 | 206.00 | 3.69% |
+| Staple A | 111.17 | 111.75 | 12.98% |
+| Sweetener D | 166.75 | 166.75 | 19.41% |
 
 ## With and without a flagged value: Sweetener D
 
